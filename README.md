@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rijaya
+- 👋 Hi, I’m Rijayatu Razak
 - 👀 I’m interested in Cloud Computing, some python programming and shell scripting.
 - 🌱 As an AWS Certified Solutions Architect, i love to learn how to design, configure and manage cloud infracstructures.
 - 💞️ I’m looking forward to collaborate on projects relating to building architectures and solutions on AWS.
