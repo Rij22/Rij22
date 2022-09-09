@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rijaya
 - 👀 I’m interested in Cloud Computing, some python programming and shell scripting.
-- 🌱 I’m currently learning Cloud computing and getting ready to take my CSA certification exams.
-- 💞️ I’m looking forward to collaborate on projects relating to build architectures and solutions on AWS.
-- 📫 How to reach me rijayatu.razak@gmail.com i would love to you hear from great minds and potential Mentors.
+- 🌱 As an AWS Certified Solutions Architect, i love to learn how to design, configure and manage cloud infracstructures.
+- 💞️ I’m looking forward to collaborate on projects relating to building architectures and solutions on AWS.
+- 📫 How to reach me, rijayatu.razak@gmail.com i would love to you hear from great minds and potential Mentors.
 
 
 <!---
