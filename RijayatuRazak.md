@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rijayatu Razak
-- 👀 I’m interested in Cloud Computing, some python programming and shell scripting.
+- 👀 I’m interested in Cloud Computing, Frontend Development, python programming and shell scripting.
 - 🌱 As an AWS Certified Solutions Architect, i love to learn how to design, configure and manage cloud infracstructures.
 - 💞️ I’m looking forward to collaborate on projects relating to building architectures and solutions on AWS.
-- 📫 How to reach me, rijayatu.razak@gmail.com i would love to you hear from great minds and potential Mentors.
+- 📫 How to reach me, rijaya.razak@gmail.com i would love to you hear from great minds and potential Mentors.
 
 
 <!---
